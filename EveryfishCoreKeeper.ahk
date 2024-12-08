@@ -2,7 +2,7 @@
 #Include "lib/FishingStateMachine.ahk"
 readyToStart := false
 startFishing := false
-instructions := "1. Abre Core Keeper (¿no me digas? 😄)`n2. Mueve tu personaje a una posición donde el agua esté a tu derecha`n3. Equipa tu caña de pescar`n4. Presiona CTRL + F para comenzar a pescar. No te muevas.`n`nControles:`nPresiona CTRL + F para detener/iniciar el proceso`nPresiona CTRL + Q para cerrar este script"
+instructions := "1. Abre Core Keeper (¿no me digas? 😄)`n2. Mueve tu personaje a una posición donde el agua esté a tu derecha o izquierda (recomendado derecha para mejor precisión)`n3. Equipa tu caña de pescar`n4. Presiona CTRL + F para comenzar a pescar. No te muevas.`n`nControles:`nPresiona CTRL + F para detener/iniciar el proceso`nPresiona CTRL + Q para cerrar este script`n`nNotas importantes:`n- El programa se minimiza en la barra inferior izquierda`n- Si no usas CTRL + Q para cerrar, deberás cerrarlo manualmente desde la barra de tareas`n`nScript traducido y adaptado por github.com/lazaroagomez"
 resultOk := MsgBox("¡Hola pescadores de Core Keeper!`n`n¡Es un buen día para ir a pescar, ¿verdad? ¡Huho!`n`n" . instructions, "Core Keeper - Pescador Automático", 0)
 readyToStart := resultOk = "OK"
 if !readyToStart
