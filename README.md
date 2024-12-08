@@ -1,52 +1,68 @@
-# 🎣 Everyfish Automatic 🐟 [![AutoHotkey2](https://img.shields.io/badge/Language-AutoHotkey2-green.svg)](https://autohotkey.com/) 
+# 🎣 Core Keeper Auto Everyfish - Versión en Español
 
-Fishing has never been easier before in core keeper. (Yeah, early access, I know) 🐠 
+Este proyecto es un fork traducido al español del original [core-keeper-auto-everyfish](https://github.com/goevexx/core-keeper-auto-everyfish/), adaptado para la comunidad hispanohablante.
 
-This application catches every item and every fish just for you. :heart:  
+## ¿Qué hace este script?
 
-Or anyone else. 🐡  
+Este script de AutoHotkey2 te permite pescar de manera automática en Core Keeper mientras estás AFK (ausente del teclado). Con él podrás:
 
-It's optimal for farming rare fishes, rare items and for leveling up your fishing skill automatically.
+* Capturar peces de manera automática
+* Recolectar objetos especiales
+* Subir tu nivel de pesca sin esfuerzo
+* Farmear recursos mientras haces otras cosas
 
-## Install
+## Características
 
-What you need to do is either of these:
+* Interfaz en español
+* Compatible con la última versión de Core Keeper
+* Fácil de configurar y usar
+* 100% seguro para tu cuenta (solo automatiza clicks)
+* Personalizable según tus necesidades
 
-### Run .exe file
+## Requisitos
 
-1. Go to [Releases](https://github.com/goevexx/core-keeper-auto-everyfish/releases)
-2. Download the latest .exe file
-3. Run it and follow the easy instructions
+* Windows 10/11
+* Core Keeper (versión Steam)
+* AutoHotkey2 (para versión .ahk)
 
+## Instalación
 
-### Run it with AutoHotkey
-1. Install [AutoHotkey2](https://autohotkey.com/)
-2. [Download the repositories code](#---get-code) 
-3. Double click EveryfishCoreKeeper.ahk
-4. Follow the instructions
+### Método Simple (.exe)
 
-### -- Get code
+1. Descarga el archivo `EveryfishCoreKeeper.exe` desde la sección "Releases"
+2. Ejecuta el programa
+3. ¡Listo para pescar!
 
-Either you need to 
+### Método con AutoHotkey
 
-1. download this repositories files (Code -> ZIP-Download) 
-2. unpack it
+1. Instala [AutoHotkey2](https://www.autohotkey.com/)
+2. Descarga este repositorio
+3. Ejecuta el archivo `EveryfishCoreKeeper.ahk`
 
-or
+## Cómo Obtener el Código
 
-1. download this repositories latest [sourcecode](https://github.com/goevexx/core-keeper-auto-everyfish/releases) 
-2. unpack it
+### Opción 1: Descarga ZIP
 
-or
+1. Click en el botón verde "Code"
+2. Selecciona "Download ZIP"
+3. Descomprime donde prefieras
 
-1. install git,
-2. open a command prompt, git cmd, git bash or something like that
-3. move to your desired destination folder (e.g. `cd Documents/AutoHotkey`)
-4. type 
+### Opción 2: Usando Git
+
 ```bash
-git clone https://github.com/goevexx/core-keeper-auto-everyfish`
+git clone [URL-DE-TU-REPOSITORIO]
+cd core-keeper-auto-everyfish
 ```
-1. and enter. The code is now in `core-keeper-auto-everyfish/`  inside of your desired folder.
 
+## Notas Importantes
 
-## :fishsticks:
+* Este es un fork traducido y adaptado del proyecto original
+* Créditos originales a [goevexx](https://github.com/goevexx/core-keeper-auto-everyfish/)
+* Si encuentras algún error o tienes sugerencias, abre un Issue en español
+
+## ¿Cómo Ayudar?
+
+* Reporta bugs
+* Sugiere mejoras
+* Comparte el proyecto
+* ¡Dale una estrella al repositorio si te fue útil!
