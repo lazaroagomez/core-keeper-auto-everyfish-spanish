@@ -50,7 +50,7 @@ Este script de AutoHotkey2 te permite pescar de manera automática en Core Keepe
 ### Opción 2: Usando Git
 
 ```bash
-git clone [URL-DE-TU-REPOSITORIO]
+git clone https://github.com/lazaroagomez/core-keeper-auto-everyfish-spanish
 cd core-keeper-auto-everyfish
 ```
 
